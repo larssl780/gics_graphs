@@ -8,7 +8,7 @@
 #  It's easiest to run the program from within ipython (or just put the below 2 rows into a separate script), like so:
 #  import gic_graphs as gg 
 #  gg.study_replication()
-#  the function produces a replication of the original study, with and without China
+#  the function produces a replication of the 'elephant graph' in the original study, with and without China
 #  Easy enough to modify library in order to play around with the data
 
 import pandas as pd
